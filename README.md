@@ -1,6 +1,6 @@
 ## `Note`
 
-## Nandhutty `Version 2` is no more maintained by the owner
+## Kellymowl `New Version ` Old Version Is Crash And Bug These Our New Bot
 ## You can use the latest version [`V3`] by clicking the below button
 ## [`Click Here`](https://github.com/Ajmal-Achu/Nandhutty-V3)
 
